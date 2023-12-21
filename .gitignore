@@ -1,0 +1,39 @@
+# Node.js
+node_modules/
+
+# Logs and Temporary Files
+*.log
+*.tmp
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor Specific Files
+.vscode/
+.idea/
+
+# Environment-Specific Files
+.env
+.env.local
+
+# Build and Compiled Files
+dist/
+build/
+
+# Dependency Lock Files
+yarn.lock
+package-lock.json
+
+# User-Specific Files
+.history/
+.bash_history
+
+# Sensitive Information
+.env
+.env.local
+
+# Generated Files
+*.generated
+
+# Custom entries (add your own as needed)
